@@ -1,0 +1,3 @@
+[submodule "OpenGLES"]
+	path = OpenGLES
+	url = git@github.com:koush/OpenGLES.git

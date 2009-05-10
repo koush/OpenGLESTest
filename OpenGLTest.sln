@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLES", "OpenGLES\OpenGLES.csproj", "{EF70FB24-4CF9-4C2D-87AB-418FD0F75A5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOpenGLES", "TestOpenGLES\TestOpenGLES.csproj", "{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLESUtilities", "OpenGLESUtilities\OpenGLESUtilities.csproj", "{5AB0443D-C4BE-4274-8A15-2A261378DB5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF70FB24-4CF9-4C2D-87AB-418FD0F75A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF70FB24-4CF9-4C2D-87AB-418FD0F75A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF70FB24-4CF9-4C2D-87AB-418FD0F75A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF70FB24-4CF9-4C2D-87AB-418FD0F75A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E08C5C-98E2-4204-BAA9-6AC8F06F0B93}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{34AF5B48-252B-4323-9056-223CEE668CA3}.Debug|Any CPU.ActiveCfg = Debug
+		{34AF5B48-252B-4323-9056-223CEE668CA3}.Release|Any CPU.ActiveCfg = Release
+		{5AB0443D-C4BE-4274-8A15-2A261378DB5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB0443D-C4BE-4274-8A15-2A261378DB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB0443D-C4BE-4274-8A15-2A261378DB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB0443D-C4BE-4274-8A15-2A261378DB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
